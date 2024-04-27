@@ -1,0 +1,7 @@
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\bin\Debug\FileIohandling.exe.config
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\bin\Debug\FileIohandling.exe
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\bin\Debug\FileIohandling.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\obj\Debug\FileIohandling.csproj.AssemblyReference.cache
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\obj\Debug\FileIohandling.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\obj\Debug\FileIohandling.exe
+C:\Users\saadahmed\Desktop\DotNetC#\FileIohandling\FileIohandling\obj\Debug\FileIohandling.pdb

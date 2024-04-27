@@ -1,0 +1,7 @@
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\bin\Debug\PrimeNumber2.exe.config
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\bin\Debug\PrimeNumber2.exe
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\bin\Debug\PrimeNumber2.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\obj\Debug\PrimeNumber2.csproj.AssemblyReference.cache
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\obj\Debug\PrimeNumber2.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\obj\Debug\PrimeNumber2.exe
+C:\Users\saadahmed\Desktop\DotNetC#\PrimeNumber2\PrimeNumber2\obj\Debug\PrimeNumber2.pdb
