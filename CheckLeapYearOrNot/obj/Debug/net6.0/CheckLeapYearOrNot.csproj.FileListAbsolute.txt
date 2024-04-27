@@ -1,0 +1,14 @@
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\bin\Debug\net6.0\CheckLeapYearOrNot.exe
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\bin\Debug\net6.0\CheckLeapYearOrNot.deps.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\bin\Debug\net6.0\CheckLeapYearOrNot.runtimeconfig.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\bin\Debug\net6.0\CheckLeapYearOrNot.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\bin\Debug\net6.0\CheckLeapYearOrNot.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.AssemblyInfoInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.AssemblyInfo.cs
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\refint\CheckLeapYearOrNot.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\CheckLeapYearOrNot.genruntimeconfig.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\CheckLeapYearOrNot\obj\Debug\net6.0\ref\CheckLeapYearOrNot.dll

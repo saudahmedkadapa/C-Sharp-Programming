@@ -1,0 +1,14 @@
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\bin\Debug\net6.0\pattern.exe
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\bin\Debug\net6.0\pattern.deps.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\bin\Debug\net6.0\pattern.runtimeconfig.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\bin\Debug\net6.0\pattern.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\bin\Debug\net6.0\pattern.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.AssemblyInfoInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.AssemblyInfo.cs
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\refint\pattern.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\pattern.genruntimeconfig.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\pattern\obj\Debug\net6.0\ref\pattern.dll

@@ -1,0 +1,7 @@
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\bin\Debug\PractiseArray.exe.config
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\bin\Debug\PractiseArray.exe
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\bin\Debug\PractiseArray.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\obj\Debug\PractiseArray.csproj.AssemblyReference.cache
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\obj\Debug\PractiseArray.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\obj\Debug\PractiseArray.exe
+C:\Users\saadahmed\Desktop\DotNetC#\PractiseArray\PractiseArray\obj\Debug\PractiseArray.pdb

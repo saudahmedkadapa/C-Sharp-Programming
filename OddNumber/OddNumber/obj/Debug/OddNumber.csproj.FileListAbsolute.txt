@@ -1,0 +1,7 @@
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\obj\Debug\OddNumber.csproj.AssemblyReference.cache
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\obj\Debug\OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\saadahmed\Desktop\DotNetC#\OddNumber\OddNumber\obj\Debug\OddNumber.pdb

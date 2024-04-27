@@ -1,0 +1,7 @@
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe.config
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\bin\Debug\EvenNumber.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.AssemblyReference.cache
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\obj\Debug\EvenNumber.exe
+C:\Users\saadahmed\Desktop\DotNetC#\EvenNumber\EvenNumber\obj\Debug\EvenNumber.pdb
