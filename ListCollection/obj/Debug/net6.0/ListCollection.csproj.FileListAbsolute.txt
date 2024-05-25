@@ -1,0 +1,14 @@
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\bin\Debug\net6.0\ListCollection.exe
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\bin\Debug\net6.0\ListCollection.deps.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\bin\Debug\net6.0\ListCollection.runtimeconfig.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\bin\Debug\net6.0\ListCollection.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\bin\Debug\net6.0\ListCollection.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfoInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfo.cs
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\refint\ListCollection.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ListCollection.genruntimeconfig.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\ListCollection\obj\Debug\net6.0\ref\ListCollection.dll

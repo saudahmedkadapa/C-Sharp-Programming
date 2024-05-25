@@ -1,0 +1,14 @@
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\bin\Debug\net6.0\InheritanceMultiple.exe
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\bin\Debug\net6.0\InheritanceMultiple.deps.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\bin\Debug\net6.0\InheritanceMultiple.runtimeconfig.json
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\bin\Debug\net6.0\InheritanceMultiple.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\bin\Debug\net6.0\InheritanceMultiple.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.AssemblyInfoInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.AssemblyInfo.cs
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.csproj.CoreCompileInputs.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\refint\InheritanceMultiple.dll
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.pdb
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\InheritanceMultiple.genruntimeconfig.cache
+C:\Users\saadahmed\Desktop\DotNetC#\Solution1\InheritanceMultiple\obj\Debug\net6.0\ref\InheritanceMultiple.dll
